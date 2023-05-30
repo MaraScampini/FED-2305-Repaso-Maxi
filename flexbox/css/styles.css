@@ -33,6 +33,12 @@
     background-color: blue;
 }
 
+@media(max-width:572px){
+    .cuadradoFlex{
+        background-color: greenyellow;
+    }
+}
+
 .imagen{
     background-image: url(../images/perro.jpg);
 }
